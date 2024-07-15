@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+.post {
+  @apply flex flex-col gap-3 font-poppins text-lg tracking-wide mb-20
+}
+
+.post > h1 {
+  @apply font-cormorantGaramond text-4xl text-center tracking-tight;
+}
+
+.post > h2 {
+  @apply font-cormorantGaramond text-3xl tracking-tight;
+}
+
+.post > ol {
+  @apply list-decimal flex flex-col mx-10 gap-2;
+}
+
+.post > ul {
+  @apply list-disc flex flex-col mx-10 gap-2;
+}
+
+.post > pre {
+  @apply overflow-scroll;
+}
+
+.post > blockquote {
+  @apply pl-5 italic border-l-2 border-opacity-40;
+}
+
+.post > p > img {
+  @apply w-1/2 mx-auto;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  /* background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb)); */
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
