@@ -47,7 +47,7 @@ It isn’t easy, but it is simple. While it’s taken me many trials and errors 
 
 I spent the better part of my post-grad year “decompressing myself” from the sensory and information overload of 16 years of school. This is largely a farce — a way to hide behind my fear of failing and stupidity. My adolescent self wasn’t humble enough to develop the learning muscles that could’ve improved my GPA, grown from my mistakes, or empowered my ideas and ambitions.
 
-You’ve opposed this lifelong limitation of mine with ideals that are void of arrogance and insecurity: wonder and curiosity. You let your instincts and inclinations pull you in their direction before letting anxiety reel you back. Your adventures down life’s less-traveled tributaries and streams — TFA, liberal arts, even museum curation one day — are the antithesis to my more structured and methodological approaches. I’m inspired by you *every single day*. I aspire to be as amazing of a teacher and student as you are.
+You’ve opposed this lifelong limitation of mine with ideals that are void of arrogance and insecurity: wonder and curiosity. You let your instincts and inclinations pull you in their direction before anxiety has a chance to reel you back. Your adventures down life’s less-traveled tributaries and streams — TFA, liberal arts, even museum curation one day — are the antithesis to my more structured and methodological approaches. I’m inspired by you *every single day*. I aspire to be as amazing of a teacher and student as you are.
 
 ---
 
