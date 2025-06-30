@@ -23,7 +23,7 @@ Let me share a few learnings that you’ve imparted on me over the last 20+ mont
 
 ---
 
-### 1. **Take radical ownership of your wellbeing**
+### 1. **Take radical ownership of your wellbeing.**
 
 Your field of study may have given you a slight edge on this skill, but it's no small feat to build a toolkit of mental wellness and maintenance. I admire how quickly you can triage your emotions and thoughts, followed by an even quicker solution. You take continual strides to be the sole, unencumbered pilot of your soul, and that quality will let you smoothly ride through life's challenges while slowing down to enjoy the deserved moments (such as this one—your grad party!).
 
